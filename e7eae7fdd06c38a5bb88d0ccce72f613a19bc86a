@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher 6BA3F93C 1512005749 -0500\npushee ssh://review.carbonrom.org:29418/CarbonROM/android_device_essential_mata\nnonce 1512005763-F6EA27C448DB3C71ED9C40279F6C2F364B8B311C\n\n0000000000000000000000000000000000000000 e7eae7fdd06c38a5bb88d0ccce72f613a19bc86a refs/for/cr-6.0\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJaH2B1AAoJEGGzPpFro/k8D7QIAKEkR7eucKqbby+wpZkXYJic\nZco6fw2LaG2bmSaREtYxQmjXThQnrqm1MWxd07PU4tJyLrAeoSkrtAyPaxtINW+R\n1P0Qj4tSZ4/CzNu7zZDHlpAKNGtqZNNc4V65ETes5134evG4tPBTiZSRBmdfBVxi\nbBOoFLqXMpZ9gBgS5FKux1sdIuBJk8E16pxBvT/JDML/mXFZa6UO0kRWuoIhRfEj\nM6RzqdY2XmdcjIGPB2WNSveQLsr742E4CPeBD3hTUNCqnUmMn6oPg2iMZ06tawEb\nVHvdHH9FivOo0dgLAwebsZNn+/s7bHw56T7di4GBVfyftkIEmNOkyoUjIOohPQU\u003d\n\u003dApAE\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
