@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher Rabih Salamey \u003csomcom3@carbonrom.org\u003e 1518655547 -0500\npushee ssh://review.carbonrom.org:29418/CarbonROM/android_device_essential_mata\nnonce 1518655552-286B241D148F137C396E308BEA443526B8EDD431\n\n0000000000000000000000000000000000000000 77251c763baf704797b5f314e8a55a08292c0c9b refs/for/cr-6.1\n-----BEGIN PGP SIGNATURE-----\n\niQFKBAABCAA0FiEELDjU6aWcNTUlGz3fnpEIMYBHLlwFAlqE2DsWHHNvbWNvbTNA\nY2FyYm9ucm9tLm9yZwAKCRCekQgxgEcuXDGVB/9blqvv/wFZnRgkSk869mgJb8XW\ngsOIWPCjTa9x4LmIly0RWK9f0/mnP8IQNRy0HTLd9biWaMqfnTuIT765h0tyiLhy\nP4tpIB9qNv4C0Czyh798YWoYGBxPIe9nkUOs64x7ceeyUF3ghKPKOgPo4Ifdw59X\nvF/2ZrpPo2LNSXHRKLvTiaOjFownZ/fRTNU5XOHh318n/7+IxU6GlBpuaC0AJdnZ\nHWHbFGTzTsHNI4Bg0neDIdiDflzuNszfS0esalFOvYPxe4F78J42Y02LtpxqvMU/\nMhes5qqhhZy66uiU/ZKGKqwhQSmLgnbgeqbS9jA1bI4HeXkDQYF3opKMJu2s\n\u003dW87b\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
