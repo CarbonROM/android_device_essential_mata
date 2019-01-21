@@ -383,7 +383,7 @@ PRODUCT_PACKAGES_DEBUG += \
 
 # USB
 PRODUCT_PACKAGES += \
-    android.hardware.usb@1.1-service.mata
+    android.hardware.usb@1.0-service.mata
 
 # Build utilities
 -include device/essential/mata/utils.mk
