@@ -14,10 +14,6 @@
 # limitations under the License.
 #
 
-# Board
-PRODUCT_USES_QCOM_HARDWARE := true
-PRODUCT_BOARD_PLATFORM := msm8998
-
 # A/B
 AB_OTA_UPDATER := true
 AB_OTA_PARTITIONS := boot system
