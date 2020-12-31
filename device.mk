@@ -125,10 +125,6 @@ PRODUCT_PACKAGES += \
     android.hardware.camera.provider@2.4-service \
     libxml2
 
-# Device settings
-PRODUCT_PACKAGES += \
-    DeviceSettings
-
 # Display
 PRODUCT_PACKAGES += \
     android.hardware.graphics.allocator@2.0-impl:64 \
@@ -214,11 +210,6 @@ PRODUCT_PACKAGES += \
 # Led packages
 PRODUCT_PACKAGES += \
     android.hardware.light@2.0-service.mata
-
-# LiveDisplay native
-PRODUCT_PACKAGES += \
-    vendor.lineage.livedisplay@2.0-service-sdm \
-    vendor.lineage.livedisplay@2.0-service-sysfs
 
 # Media
 PRODUCT_COPY_FILES += \
@@ -382,10 +373,6 @@ PRODUCT_PACKAGES += \
 # Tracing
 PRODUCT_PACKAGES += \
     android.hardware.atrace@1.0-service.pixel
-
-# Trust HAL
-PRODUCT_PACKAGES += \
-    vendor.lineage.trust@1.0-service
 
 # Update engine
 PRODUCT_PACKAGES += \
